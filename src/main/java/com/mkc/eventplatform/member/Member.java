@@ -1,4 +1,4 @@
-package com.mkc.attendance.member;
+package com.mkc.eventplatform.member;
 
 import jakarta.persistence.*;
 import lombok.*;

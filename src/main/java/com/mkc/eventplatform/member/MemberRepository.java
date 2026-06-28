@@ -1,4 +1,4 @@
-package com.mkc.attendance.member;
+package com.mkc.eventplatform.member;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

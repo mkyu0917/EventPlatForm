@@ -1,4 +1,4 @@
-package com.mkc.attendance.member;
+package com.mkc.eventplatform.member;
 
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;

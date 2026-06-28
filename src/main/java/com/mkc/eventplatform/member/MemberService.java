@@ -1,4 +1,4 @@
-package com.mkc.attendance.member;
+package com.mkc.eventplatform.member;
 
 public interface MemberService {
 

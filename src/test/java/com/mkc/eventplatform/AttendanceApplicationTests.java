@@ -1,4 +1,4 @@
-package com.mkc.attendance;
+package com.mkc.eventplatform;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

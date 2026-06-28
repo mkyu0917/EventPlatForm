@@ -1,4 +1,4 @@
-package com.mkc.attendance.member;
+package com.mkc.eventplatform.member;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -9,7 +9,9 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class MemberJoinResponse {
+public class MemberJoinRequest {
 
-    private String joinMessage;
+    private String memberId;
+    private String memberPassword;
+
 }
